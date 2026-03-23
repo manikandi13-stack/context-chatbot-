@@ -1,0 +1,26 @@
+[
+    {
+        "user": "my name is naga"
+    },
+    {
+        "bot": "Got it! Your name is naga."
+    },
+    {
+        "user": "my interest is AI"
+    },
+    {
+        "bot": "Got it! Your interest is AI."
+    },
+    {
+        "user": "what is my name"
+    },
+    {
+        "bot": "Your name is naga."
+    },
+    {
+        "user": "what is my interest"
+    },
+    {
+        "bot": "Your interest is AI."
+    }
+]
