@@ -1,16 +1,37 @@
-# Context-Aware Chatbot
+# Context-Aware Chatbot (AI Web App)
 
-This is a simple context-aware chatbot built using Python and Streamlit.
+## Description
+This is an intelligent, context-aware chatbot built using Python and Streamlit.  
+The bot can:
 
-## Files
-- app.py - Main Streamlit app
-- main.py - Chatbot logic and functions
+- Maintain conversational context (remember user name and interest)  
+- Recognize user intent dynamically  
+- Display full conversation history in a web interface  
+- Allow downloading chat history as a JSON file  
+
+This project demonstrates a practical AI solution with a clean web interface, suitable for automation and workflow tasks.
+
+---
+
+## Features
+- Persistent **conversation memory** across multiple messages  
+- **Intent recognition** for flexible user input  
+- **Downloadable chat history** in JSON format  
+- Browser-based interface using **Streamlit**  
+
+---
+
+## Technologies Used
+- Python 3.14  
+- Streamlit  
+- JSON  
+- Git & GitHub (for version control)  
+
+---
 
 ## How to Run
-1. Clone the repository:
-   git clone https://github.com/manikandi13-stack/context-chatbot-.git
-2. Install dependencies:
-   pip install -r requirements.txt
-3. Run Streamlit:
-   python -m streamlit run app.py
-   
+1. Clone this repository:
+
+```bash
+git clone <YOUR_GITHUB_LINK>
+cd context-chatbot
